@@ -112,7 +112,7 @@ public class Controller {
     // 8.04 Техническое повышение [08.01.2021]
     // 8.05 Отключена запись архивов 5 контроллеров Приозерск[08.01.2021] 
     
-    public static final byte[] version = {'8', '.', '0', '6', 'z'};
+    public static final byte[] version = {'8', '.', '0', '7', 'z'};
 
     public static int rebootCounter = 0;   //счетчик для WD
     
